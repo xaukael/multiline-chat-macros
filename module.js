@@ -11,5 +11,5 @@ let messages = this.data.command.split('\n/').map((e, i)=>{ if (e.trim().at(0)!=
         command: this.data.command
       });
     });
-}, libWrapper.OVERRIDE);
+}, 'WRAPPER');
 });
