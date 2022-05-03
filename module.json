@@ -1,0 +1,20 @@
+{
+    "name": "multiline-chat-macros",
+    "title": "Multiline Chat Macros",
+    "description": "",
+    "author": "Xaukael",
+    "version": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "esmodules": ["module.js"],
+	"styles": ["style.css"],
+    "dependencies": [
+	  {
+		  "name": "lib-wrapper",
+		  "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/blob/master/module.json"
+	  }
+	  ],
+    "url": "https://github.com/xaukael/multiline-chat-macros",
+    "manifest": "https://github.com/xaukael/multiline-chat-macros/raw/main/module.json",
+    "download": "https://github.com/xaukael/multiline-chat-macros/raw/main/multiline-chat-macros.zip"
+}
